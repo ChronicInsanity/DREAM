@@ -5,7 +5,7 @@ var VIDEO_PATH = "https://dl.dropbox.com/s/";
 
 //once you reach the end of the clip select the first choice (true)
 //if false disables the bar
-var AUTOCHOICE = false;
+var AUTOCHOICE = true;
 //allows players to pause the video
 var VIDEO_PAUSE = true;
 //allows pausing when the choices are on
