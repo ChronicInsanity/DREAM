@@ -3,57 +3,57 @@
 
 
 :: CAVE
-{CAVE.mov|2:22}
+{34lt1k6jjxu4lwl/CAVE.mov|2:22}
 [[Go left|LEFT]]
 [[Go right|RIGHT]]
 
 
 
 :: RIGHT
-{RIGHT.mov|4:55}
+{ftrwo9ksyq8rq95/RIGHT.mov|4:55}
 [[Credits|END]]
 
 
 
 :: PARK1
-{PARK1.mov|0:42}
+{lgr0i2ri9ymxpiu/PARK1.mov|0:42}
 [[Go left|HILL]]
 [[Go right|DETOUR]]
 [[Go into the ruin|CAVE]]
 
 
 :: INTRO
-{INTRO.mov|1:13}
+{5q9deosl08k0u5w/INTRO.mov|1:13}
 [[Go into the park|PARK1]]
 [[Go down the alleyway|PARK2]]
 
 
 :: LEFT
-{LEFT.mov|3:50}
+{zv3ggmap3z59zf1/LEFT.mov|3:50}
 [[Credits|END]]
 
 
 :: HILL
-{HILL.mov|1:02}
+{bvuyy446sxi221b/HILL.mov|1:02}
 [[Go left|LEFT]]
 [[Go right|RIGHT]]
 
 
 
 :: PARK2
-{PARK1.mov|0:42}
+{4k143ie33pxsndp/PARK2.mov|0:42}
 [[Go left|HILL]]
 [[Go right|DETOUR]]
 [[Go into the ruin|CAVE]]
 
 
 :: RIGHT2
-{RIGHT2.mov|4:55}
+{jcyk4u19f90n7zj/RIGHT2.mov|4:55}
 [[Credits|END]]
 
 
 :: DETOUR
-{DETOUR.mov|1:51}
+{yr7uk35o6v31hr7/DETOUR.mov|1:51}
 [[Go left|LEFT2]]
 [[Go right|RIGHT2]]
 
