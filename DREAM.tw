@@ -3,57 +3,56 @@
 
 
 :: CAVE
-{34lt1k6jjxu4lwl/CAVE.mov|2:22}
+{w4o5omy73ap0rsv/CAVE.mov|2:22}
 [[Go left|LEFT]]
 [[Go right|RIGHT]]
 
 
 
 :: RIGHT
-{ftrwo9ksyq8rq95/RIGHT.mov|5:03}
+{65tqvg525fu68tn/RIGHT.mov|5:03}
 [[Credits|END]]
 
 
 
 :: PARK1
-{lgr0i2ri9ymxpiu/PARK1.mov|0:42}
+{ou4xbnips9vcj7t/PARK1.mov|0:42}
 [[Go into the ruin|CAVE]]
 [[Go left|DETOUR]]
 [[Go right|HILL]]
 
 
 :: INTRO
-{5q9deosl08k0u5w/INTRO.mov|1:13}
+{vrbgo2owpr3mnvq/INTRO.mov|1:13}
 [[Go into the park|PARK1]]
 [[Go down the alleyway|PARK2]]
 
 
 :: LEFT
-{zv3ggmap3z59zf1/LEFT.mov|3:56}
+{slmluo7tdqzenf7/LEFT.mov|3:56}
 [[Credits|END]]
 
 
 :: HILL
-{bvuyy446sxi221b/HILL.mov|1:02}
+{gdo3f2g8x4qxwwn/HILL.mov|1:02}
 [[Go left|LEFT]]
 [[Go right|RIGHT]]
 
 
-
 :: PARK2
-{4k143ie33pxsndp/PARK2.mov|0:42}
+{40pzc2loilfis6d/PARK2.mov|0:42}
 [[Go into the ruin|CAVE]]
 [[Go left|DETOUR]]
 [[Go right|HILL]]
 
 
 :: RIGHT2
-{jcyk4u19f90n7zj/RIGHT2.mov|5:05}
+{e887dipi7cuttwc/RIGHT2.mov|5:05}
 [[Credits|END]]
 
 
 :: DETOUR
-{yr7uk35o6v31hr7/DETOUR.mov|1:51}
+{pcommlngrvuirns/DETOUR.mov|1:51}
 [[Go left|LEFT2]]
 [[Go right|RIGHT2]]
 
@@ -77,7 +76,7 @@ If you fancy supporting us so that we can make more digital theatre in the futur
 
 
 :: LEFT2
-{zpsmjtwqobv25nt/LEFT2.mov|3:59}
+{8oaavrttomr5f5s/LEFT2.mov|3:59}
 [[Credits|END]]
 
 
